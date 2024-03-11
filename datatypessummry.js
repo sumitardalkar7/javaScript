@@ -26,3 +26,5 @@ let myobj ={
  const sumit = function(){
     console.log("hello world ")
 }
+//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+// stack(primitves ) heap(non primitives )
